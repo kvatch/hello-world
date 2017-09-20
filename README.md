@@ -6,3 +6,5 @@ Ligne ajoutée.
 
 Modification effectuée sur GitHub.
 Modif en local.
+
+C'est cool.
