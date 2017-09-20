@@ -4,4 +4,5 @@ GitHub tutorial
 Hello, I am a GitHub newbie.
 Ligne ajoutée.
 
-Modification éfeectuée sur GitHub.
+Modification effectuée sur GitHub.
+Modif en local.
